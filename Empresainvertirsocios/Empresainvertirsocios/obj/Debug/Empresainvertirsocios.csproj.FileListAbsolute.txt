@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\Empresainvertirsocios\Empresainvertirsocios\bin\Debug\Empresainvertirsocios.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\Empresainvertirsocios\Empresainvertirsocios\bin\Debug\Empresainvertirsocios.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\Empresainvertirsocios\Empresainvertirsocios\bin\Debug\Empresainvertirsocios.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\Empresainvertirsocios\Empresainvertirsocios\obj\Debug\Empresainvertirsocios.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\Empresainvertirsocios\Empresainvertirsocios\obj\Debug\Empresainvertirsocios.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\Empresainvertirsocios\Empresainvertirsocios\obj\Debug\Empresainvertirsocios.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\Empresainvertirsocios\Empresainvertirsocios\obj\Debug\Empresainvertirsocios.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\Empresainvertirsocios\Empresainvertirsocios\obj\Debug\Empresainvertirsocios.pdb

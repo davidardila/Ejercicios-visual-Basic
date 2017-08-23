@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\Nombre de una persona\Nombre de una persona\bin\Debug\Nombre de una persona.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\Nombre de una persona\Nombre de una persona\bin\Debug\Nombre de una persona.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\Nombre de una persona\Nombre de una persona\bin\Debug\Nombre de una persona.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\Nombre de una persona\Nombre de una persona\obj\Debug\Nombre_de_una_persona.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\Nombre de una persona\Nombre de una persona\obj\Debug\Nombre_de_una_persona.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\Nombre de una persona\Nombre de una persona\obj\Debug\Nombre de una persona.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\Nombre de una persona\Nombre de una persona\obj\Debug\Nombre de una persona.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\Nombre de una persona\Nombre de una persona\obj\Debug\Nombre de una persona.pdb

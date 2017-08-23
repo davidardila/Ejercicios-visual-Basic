@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\suma de heterogeneos\suma de heterogeneos\bin\Debug\suma de heterogeneos.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\suma de heterogeneos\suma de heterogeneos\bin\Debug\suma de heterogeneos.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\suma de heterogeneos\suma de heterogeneos\bin\Debug\suma de heterogeneos.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\suma de heterogeneos\suma de heterogeneos\obj\Debug\suma de heterogeneos.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\suma de heterogeneos\suma de heterogeneos\obj\Debug\suma_de_heterogeneos.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\suma de heterogeneos\suma de heterogeneos\obj\Debug\suma_de_heterogeneos.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\suma de heterogeneos\suma de heterogeneos\obj\Debug\suma de heterogeneos.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\suma de heterogeneos\suma de heterogeneos\obj\Debug\suma de heterogeneos.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\suma de heterogeneos\suma de heterogeneos\obj\Debug\suma de heterogeneos.pdb

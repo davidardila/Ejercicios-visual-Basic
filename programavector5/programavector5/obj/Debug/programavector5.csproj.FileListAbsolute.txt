@@ -1,0 +1,12 @@
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\programavector5\programavector5\bin\Debug\programavector5.exe.config
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\programavector5\programavector5\obj\Debug\programavector5.csprojResolveAssemblyReference.cache
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\programavector5\programavector5\bin\Debug\programavector5.exe
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\programavector5\programavector5\bin\Debug\programavector5.pdb
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\programavector5\programavector5\obj\Debug\programavector5.exe
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\programavector5\programavector5\obj\Debug\programavector5.pdb
+C:\Users\cielo astrit\Downloads\programavector5\programavector5\bin\Debug\programavector5.exe.config
+C:\Users\cielo astrit\Downloads\programavector5\programavector5\obj\Debug\programavector5.exe
+C:\Users\cielo astrit\Downloads\programavector5\programavector5\obj\Debug\programavector5.pdb
+C:\Users\cielo astrit\Downloads\programavector5\programavector5\bin\Debug\programavector5.exe
+C:\Users\cielo astrit\Downloads\programavector5\programavector5\bin\Debug\programavector5.pdb
+C:\Users\cielo astrit\Downloads\programavector5\programavector5\obj\Debug\programavector5.csprojResolveAssemblyReference.cache

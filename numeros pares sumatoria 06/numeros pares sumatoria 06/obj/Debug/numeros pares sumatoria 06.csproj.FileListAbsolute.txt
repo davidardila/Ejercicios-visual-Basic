@@ -1,0 +1,8 @@
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros pares sumatoria 06\numeros pares sumatoria 06\bin\Debug\numeros pares sumatoria 06.exe.config
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros pares sumatoria 06\numeros pares sumatoria 06\bin\Debug\numeros pares sumatoria 06.exe
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros pares sumatoria 06\numeros pares sumatoria 06\bin\Debug\numeros pares sumatoria 06.pdb
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros pares sumatoria 06\numeros pares sumatoria 06\obj\Debug\numeros_pares_sumatoria_06.Form1.resources
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros pares sumatoria 06\numeros pares sumatoria 06\obj\Debug\numeros_pares_sumatoria_06.Properties.Resources.resources
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros pares sumatoria 06\numeros pares sumatoria 06\obj\Debug\numeros pares sumatoria 06.csproj.GenerateResource.Cache
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros pares sumatoria 06\numeros pares sumatoria 06\obj\Debug\numeros pares sumatoria 06.exe
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros pares sumatoria 06\numeros pares sumatoria 06\obj\Debug\numeros pares sumatoria 06.pdb

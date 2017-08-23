@@ -1,0 +1,8 @@
+c:\users\cielo astrit\documents\visual studio 2012\Projects\Multiplos de 5 ejer05\Multiplos de 5 ejer05\bin\Debug\Multiplos de 5 ejer05.exe.config
+c:\users\cielo astrit\documents\visual studio 2012\Projects\Multiplos de 5 ejer05\Multiplos de 5 ejer05\bin\Debug\Multiplos de 5 ejer05.exe
+c:\users\cielo astrit\documents\visual studio 2012\Projects\Multiplos de 5 ejer05\Multiplos de 5 ejer05\bin\Debug\Multiplos de 5 ejer05.pdb
+c:\users\cielo astrit\documents\visual studio 2012\Projects\Multiplos de 5 ejer05\Multiplos de 5 ejer05\obj\Debug\Multiplos_de_5_ejer05.Form1.resources
+c:\users\cielo astrit\documents\visual studio 2012\Projects\Multiplos de 5 ejer05\Multiplos de 5 ejer05\obj\Debug\Multiplos_de_5_ejer05.Properties.Resources.resources
+c:\users\cielo astrit\documents\visual studio 2012\Projects\Multiplos de 5 ejer05\Multiplos de 5 ejer05\obj\Debug\Multiplos de 5 ejer05.csproj.GenerateResource.Cache
+c:\users\cielo astrit\documents\visual studio 2012\Projects\Multiplos de 5 ejer05\Multiplos de 5 ejer05\obj\Debug\Multiplos de 5 ejer05.exe
+c:\users\cielo astrit\documents\visual studio 2012\Projects\Multiplos de 5 ejer05\Multiplos de 5 ejer05\obj\Debug\Multiplos de 5 ejer05.pdb

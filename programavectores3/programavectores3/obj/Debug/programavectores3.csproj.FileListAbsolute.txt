@@ -1,0 +1,6 @@
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores3\programavectores3\bin\Debug\programavectores3.exe.config
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores3\programavectores3\bin\Debug\programavectores3.exe
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores3\programavectores3\bin\Debug\programavectores3.pdb
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores3\programavectores3\obj\Debug\programavectores3.csprojResolveAssemblyReference.cache
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores3\programavectores3\obj\Debug\programavectores3.exe
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores3\programavectores3\obj\Debug\programavectores3.pdb

@@ -1,0 +1,6 @@
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\programavector6\programavector6\bin\Debug\programavector6.exe.config
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\programavector6\programavector6\bin\Debug\programavector6.exe
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\programavector6\programavector6\bin\Debug\programavector6.pdb
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\programavector6\programavector6\obj\Debug\programavector6.csprojResolveAssemblyReference.cache
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\programavector6\programavector6\obj\Debug\programavector6.exe
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\programavector6\programavector6\obj\Debug\programavector6.pdb

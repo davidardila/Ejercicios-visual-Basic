@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\sueldo\sueldo\bin\Debug\sueldo.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\sueldo\sueldo\bin\Debug\sueldo.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\sueldo\sueldo\bin\Debug\sueldo.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\sueldo\sueldo\obj\Debug\sueldo.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\sueldo\sueldo\obj\Debug\sueldo.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\sueldo\sueldo\obj\Debug\sueldo.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\sueldo\sueldo\obj\Debug\sueldo.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\sueldo\sueldo\obj\Debug\sueldo.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\sueldo\sueldo\obj\Debug\sueldo.pdb

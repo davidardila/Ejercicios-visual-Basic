@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\navegadores\navegadores\bin\Debug\navegadores.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\navegadores\navegadores\bin\Debug\navegadores.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\navegadores\navegadores\bin\Debug\navegadores.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\navegadores\navegadores\obj\Debug\navegadores.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\navegadores\navegadores\obj\Debug\navegadores.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\navegadores\navegadores\obj\Debug\navegadores.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\navegadores\navegadores\obj\Debug\navegadores.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\navegadores\navegadores\obj\Debug\navegadores.pdb

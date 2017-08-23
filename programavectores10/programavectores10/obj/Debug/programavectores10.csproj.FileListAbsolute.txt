@@ -1,0 +1,12 @@
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores10\programavectores10\bin\Debug\programavectores10.exe.config
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores10\programavectores10\bin\Debug\programavectores10.exe
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores10\programavectores10\bin\Debug\programavectores10.pdb
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores10\programavectores10\obj\Debug\programavectores10.csprojResolveAssemblyReference.cache
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores10\programavectores10\obj\Debug\programavectores10.exe
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores10\programavectores10\obj\Debug\programavectores10.pdb
+C:\Users\cielo astrit\Downloads\programavectores10\programavectores10\bin\Debug\programavectores10.exe.config
+C:\Users\cielo astrit\Downloads\programavectores10\programavectores10\obj\Debug\programavectores10.exe
+C:\Users\cielo astrit\Downloads\programavectores10\programavectores10\obj\Debug\programavectores10.pdb
+C:\Users\cielo astrit\Downloads\programavectores10\programavectores10\bin\Debug\programavectores10.exe
+C:\Users\cielo astrit\Downloads\programavectores10\programavectores10\bin\Debug\programavectores10.pdb
+C:\Users\cielo astrit\Downloads\programavectores10\programavectores10\obj\Debug\programavectores10.csprojResolveAssemblyReference.cache

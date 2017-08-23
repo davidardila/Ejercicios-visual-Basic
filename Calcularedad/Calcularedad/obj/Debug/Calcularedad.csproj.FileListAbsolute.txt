@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\Calcularedad\Calcularedad\bin\Debug\Calcularedad.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\Calcularedad\Calcularedad\bin\Debug\Calcularedad.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\Calcularedad\Calcularedad\bin\Debug\Calcularedad.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\Calcularedad\Calcularedad\obj\Debug\Calcularedad.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\Calcularedad\Calcularedad\obj\Debug\Calcularedad.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\Calcularedad\Calcularedad\obj\Debug\Calcularedad.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\Calcularedad\Calcularedad\obj\Debug\Calcularedad.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\Calcularedad\Calcularedad\obj\Debug\Calcularedad.pdb

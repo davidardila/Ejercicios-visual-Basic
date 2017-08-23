@@ -1,0 +1,9 @@
+c:\users\cielo astrit\documents\visual studio 2012\Projects\vendedores de autos 08\vendedores de autos 08\bin\Debug\vendedores de autos 08.exe.config
+c:\users\cielo astrit\documents\visual studio 2012\Projects\vendedores de autos 08\vendedores de autos 08\bin\Debug\vendedores de autos 08.exe
+c:\users\cielo astrit\documents\visual studio 2012\Projects\vendedores de autos 08\vendedores de autos 08\bin\Debug\vendedores de autos 08.pdb
+c:\users\cielo astrit\documents\visual studio 2012\Projects\vendedores de autos 08\vendedores de autos 08\obj\Debug\vendedores de autos 08.csprojResolveAssemblyReference.cache
+c:\users\cielo astrit\documents\visual studio 2012\Projects\vendedores de autos 08\vendedores de autos 08\obj\Debug\vendedores_de_autos_08.Form1.resources
+c:\users\cielo astrit\documents\visual studio 2012\Projects\vendedores de autos 08\vendedores de autos 08\obj\Debug\vendedores_de_autos_08.Properties.Resources.resources
+c:\users\cielo astrit\documents\visual studio 2012\Projects\vendedores de autos 08\vendedores de autos 08\obj\Debug\vendedores de autos 08.csproj.GenerateResource.Cache
+c:\users\cielo astrit\documents\visual studio 2012\Projects\vendedores de autos 08\vendedores de autos 08\obj\Debug\vendedores de autos 08.exe
+c:\users\cielo astrit\documents\visual studio 2012\Projects\vendedores de autos 08\vendedores de autos 08\obj\Debug\vendedores de autos 08.pdb

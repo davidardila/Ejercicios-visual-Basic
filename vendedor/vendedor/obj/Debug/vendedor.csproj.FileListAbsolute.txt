@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\vendedor\vendedor\bin\Debug\vendedor.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\vendedor\vendedor\bin\Debug\vendedor.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\vendedor\vendedor\bin\Debug\vendedor.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\vendedor\vendedor\obj\Debug\vendedor.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\vendedor\vendedor\obj\Debug\vendedor.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\vendedor\vendedor\obj\Debug\vendedor.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\vendedor\vendedor\obj\Debug\vendedor.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\vendedor\vendedor\obj\Debug\vendedor.pdb

@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\mayoromenor o igual\mayoromenor o igual\bin\Debug\mayoromenor o igual.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\mayoromenor o igual\mayoromenor o igual\bin\Debug\mayoromenor o igual.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\mayoromenor o igual\mayoromenor o igual\bin\Debug\mayoromenor o igual.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\mayoromenor o igual\mayoromenor o igual\obj\Debug\mayoromenor o igual.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\mayoromenor o igual\mayoromenor o igual\obj\Debug\mayoromenor_o_igual.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\mayoromenor o igual\mayoromenor o igual\obj\Debug\mayoromenor_o_igual.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\mayoromenor o igual\mayoromenor o igual\obj\Debug\mayoromenor o igual.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\mayoromenor o igual\mayoromenor o igual\obj\Debug\mayoromenor o igual.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\mayoromenor o igual\mayoromenor o igual\obj\Debug\mayoromenor o igual.pdb

@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\aumentosalariodeunobrero\aumentosalariodeunobrero\bin\Debug\aumentosalariodeunobrero.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\aumentosalariodeunobrero\aumentosalariodeunobrero\bin\Debug\aumentosalariodeunobrero.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\aumentosalariodeunobrero\aumentosalariodeunobrero\bin\Debug\aumentosalariodeunobrero.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\aumentosalariodeunobrero\aumentosalariodeunobrero\obj\Debug\aumentosalariodeunobrero.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\aumentosalariodeunobrero\aumentosalariodeunobrero\obj\Debug\aumentosalariodeunobrero.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\aumentosalariodeunobrero\aumentosalariodeunobrero\obj\Debug\aumentosalariodeunobrero.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\aumentosalariodeunobrero\aumentosalariodeunobrero\obj\Debug\aumentosalariodeunobrero.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\aumentosalariodeunobrero\aumentosalariodeunobrero\obj\Debug\aumentosalariodeunobrero.pdb

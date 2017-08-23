@@ -1,0 +1,9 @@
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\ejercicioinputbox\ejercicioinputbox\bin\Debug\ejercicioinputbox.exe.config
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\ejercicioinputbox\ejercicioinputbox\bin\Debug\ejercicioinputbox.exe
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\ejercicioinputbox\ejercicioinputbox\bin\Debug\ejercicioinputbox.pdb
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\ejercicioinputbox\ejercicioinputbox\obj\Debug\ejercicioinputbox.csprojResolveAssemblyReference.cache
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\ejercicioinputbox\ejercicioinputbox\obj\Debug\ejercicioinputbox.Form1.resources
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\ejercicioinputbox\ejercicioinputbox\obj\Debug\ejercicioinputbox.Properties.Resources.resources
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\ejercicioinputbox\ejercicioinputbox\obj\Debug\ejercicioinputbox.csproj.GenerateResource.Cache
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\ejercicioinputbox\ejercicioinputbox\obj\Debug\ejercicioinputbox.exe
+C:\Users\aprendiz.SOACDPRCID7F284\Documents\Visual Studio 2012\Projects\ejercicioinputbox\ejercicioinputbox\obj\Debug\ejercicioinputbox.pdb

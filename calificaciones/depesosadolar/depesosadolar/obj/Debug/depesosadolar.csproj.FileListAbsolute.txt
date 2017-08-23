@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\depesosadolar\depesosadolar\bin\Debug\depesosadolar.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\depesosadolar\depesosadolar\bin\Debug\depesosadolar.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\depesosadolar\depesosadolar\bin\Debug\depesosadolar.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\depesosadolar\depesosadolar\obj\Debug\depesosadolar.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\depesosadolar\depesosadolar\obj\Debug\depesosadolar.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\depesosadolar\depesosadolar\obj\Debug\depesosadolar.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\depesosadolar\depesosadolar\obj\Debug\depesosadolar.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\depesosadolar\depesosadolar\obj\Debug\depesosadolar.pdb

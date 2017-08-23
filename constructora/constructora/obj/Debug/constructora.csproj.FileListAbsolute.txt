@@ -1,0 +1,7 @@
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\constructora\constructora\bin\Debug\constructora.exe.config
+C:\Users\cielo astrit\Downloads\constructora\constructora\bin\Debug\constructora.exe.config
+C:\Users\cielo astrit\Downloads\constructora\constructora\bin\Debug\constructora.exe
+C:\Users\cielo astrit\Downloads\constructora\constructora\bin\Debug\constructora.pdb
+C:\Users\cielo astrit\Downloads\constructora\constructora\obj\Debug\constructora.csprojResolveAssemblyReference.cache
+C:\Users\cielo astrit\Downloads\constructora\constructora\obj\Debug\constructora.exe
+C:\Users\cielo astrit\Downloads\constructora\constructora\obj\Debug\constructora.pdb

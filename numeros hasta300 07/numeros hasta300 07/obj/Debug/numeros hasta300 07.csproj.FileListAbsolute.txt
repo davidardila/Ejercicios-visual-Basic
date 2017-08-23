@@ -1,0 +1,8 @@
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros hasta300 07\numeros hasta300 07\bin\Debug\numeros hasta300 07.exe.config
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros hasta300 07\numeros hasta300 07\bin\Debug\numeros hasta300 07.exe
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros hasta300 07\numeros hasta300 07\bin\Debug\numeros hasta300 07.pdb
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros hasta300 07\numeros hasta300 07\obj\Debug\numeros_hasta300_07.Form1.resources
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros hasta300 07\numeros hasta300 07\obj\Debug\numeros_hasta300_07.Properties.Resources.resources
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros hasta300 07\numeros hasta300 07\obj\Debug\numeros hasta300 07.csproj.GenerateResource.Cache
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros hasta300 07\numeros hasta300 07\obj\Debug\numeros hasta300 07.exe
+c:\users\cielo astrit\documents\visual studio 2012\Projects\numeros hasta300 07\numeros hasta300 07\obj\Debug\numeros hasta300 07.pdb

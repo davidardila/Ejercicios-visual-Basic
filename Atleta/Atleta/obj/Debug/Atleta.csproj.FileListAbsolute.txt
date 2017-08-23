@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\Atleta\Atleta\bin\Debug\Atleta.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\Atleta\Atleta\bin\Debug\Atleta.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\Atleta\Atleta\bin\Debug\Atleta.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\Atleta\Atleta\obj\Debug\Atleta.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\Atleta\Atleta\obj\Debug\Atleta.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\Atleta\Atleta\obj\Debug\Atleta.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\Atleta\Atleta\obj\Debug\Atleta.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\Atleta\Atleta\obj\Debug\Atleta.pdb

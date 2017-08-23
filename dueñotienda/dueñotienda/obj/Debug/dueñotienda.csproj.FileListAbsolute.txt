@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\dueñotienda\dueñotienda\bin\Debug\dueñotienda.exe.config
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\dueñotienda\dueñotienda\bin\Debug\dueñotienda.exe
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\dueñotienda\dueñotienda\bin\Debug\dueñotienda.pdb
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\dueñotienda\dueñotienda\obj\Debug\dueñotienda.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\dueñotienda\dueñotienda\obj\Debug\dueñotienda.Form1.resources
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\dueñotienda\dueñotienda\obj\Debug\dueñotienda.Properties.Resources.resources
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\dueñotienda\dueñotienda\obj\Debug\dueñotienda.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\dueñotienda\dueñotienda\obj\Debug\dueñotienda.exe
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\dueñotienda\dueñotienda\obj\Debug\dueñotienda.pdb

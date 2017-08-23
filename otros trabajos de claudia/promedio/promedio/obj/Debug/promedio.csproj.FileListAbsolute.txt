@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\promedio\promedio\bin\Debug\promedio.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\promedio\promedio\bin\Debug\promedio.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\promedio\promedio\bin\Debug\promedio.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\promedio\promedio\obj\Debug\promedio.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\promedio\promedio\obj\Debug\promedio.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\promedio\promedio\obj\Debug\promedio.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\promedio\promedio\obj\Debug\promedio.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\promedio\promedio\obj\Debug\promedio.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\promedio\promedio\obj\Debug\promedio.pdb
